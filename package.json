@@ -1,0 +1,19 @@
+{
+  "name": "week-18-challenge",
+  "version": "1.0.0",
+  "description": "A simple social network API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.1",
+    "express-validator": "^6.12.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.12"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
